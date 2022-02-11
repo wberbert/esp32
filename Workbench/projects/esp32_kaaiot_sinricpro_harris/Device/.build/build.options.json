@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "../..,../..,../..",
+  "builtInLibrariesFolders": "/opt/arduino-1.8.16/libraries",
+  "builtInToolsFolders": "/opt/arduino-1.8.16/tools-builder,/opt/arduino-1.8.16/hardware/tools/avr,/home/wberbert/.arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=/home/wberbert/IoTWorkbenchProjects/projects/esp32_kaaiot_sinricpro_harris/Device/.build,build.warn_data_percentage=75,runtime.tools.esptool_py.path=/home/wberbert/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.esptool_py-3.0.0.path=/home/wberbert/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.mkspiffs.path=/home/wberbert/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/home/wberbert/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.xtensa-esp32-elf-gcc.path=/home/wberbert/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=/home/wberbert/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0",
+  "fqbn": "esp32:esp32:m5stack-core-esp32:FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "/opt/arduino-1.8.16/hardware,/home/wberbert/.arduino15/packages",
+  "otherLibrariesFolders": "/home/wberbert/Arduino/libraries",
+  "runtime.ide.version": "10816",
+  "sketchLocation": "/home/wberbert/IoTWorkbenchProjects/projects/esp32_kaaiot_sinricpro_harris/Device/device.ino"
+}

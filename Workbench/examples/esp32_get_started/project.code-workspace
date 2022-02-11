@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "IoTWorkbench.BoardId": "esp32",
+        "IoTWorkbench.DevicePath": "Device"
+    }
+}

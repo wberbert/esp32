@@ -1,0 +1,7 @@
+{
+    "board": "esp32:esp32:onehorse32dev",
+    "sketch": "device.ino",
+    "configuration": "FlashFreq=80,UploadSpeed=921600",
+    "output": "./.build",
+    "port": "/dev/ttyUSB0"
+}

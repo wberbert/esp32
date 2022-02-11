@@ -1,0 +1,36 @@
+{
+    "componentConfigs": [
+        {
+            "id": "8341d26d-3fd9-3f82-aabf-3000238ff89f",
+            "folder": "",
+            "name": "",
+            "dependencies": [],
+            "type": "IoTHub",
+            "componentInfo": {
+                "values": {
+                    "iotHubConnectionString": "HostName=ihub-tst-berbert-brazilsouth.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=k8KkoliMZTLi626nffOUPE909B7wwrd2dBD5GdLwXN0=",
+                    "eventHubConnectionString": "Endpoint=sb://iothub-ns-ihub-tst-b-15178658-a5789a6375.servicebus.windows.net/;      SharedAccessKeyName=iothubowner;SharedAccessKey=k8KkoliMZTLi626nffOUPE909B7wwrd2dBD5GdLwXN0=",
+                    "eventHubConnectionPath": "ihub-tst-berbert-brazilso"
+                }
+            }
+        },
+        {
+            "id": "3699f409-3321-dbe8-8709-ae3324eb2968",
+            "folder": "",
+            "name": "",
+            "dependencies": [
+                {
+                    "id": "8341d26d-3fd9-3f82-aabf-3000238ff89f",
+                    "type": 1
+                }
+            ],
+            "type": "IoTHubDevice",
+            "componentInfo": {
+                "values": {
+                    "iotHubConnectionString": "HostName=ihub-tst-berbert-brazilsouth.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=k8KkoliMZTLi626nffOUPE909B7wwrd2dBD5GdLwXN0=",
+                    "iotHubDeviceConnectionString": "HostName=ihub-tst-berbert-brazilsouth.azure-devices.net;DeviceId=esp32_berbert;SharedAccessKey=IU8apV5V1/yOpw5SmchlX/EQkyE4hNfVFz8lUI3SK2Q="
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/variants/m5stack_core_esp32"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "SinricPro.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/SinricPro-2.9.10/src"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/ArduinoJson-6.18.5/src"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "WebSocketsClient.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "WiFiClientSecure.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFiClientSecure/src"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "/home/wberbert/Desenvolvimento/IoTWorkbenchProjects/projects/esp32_sinricpro_sensor/Device/.build/sketch/device.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/ETH.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/SinricPro-2.9.10/src/SinricProSignature.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/SocketIOclient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/WebSockets.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/WebSocketsClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/WebSocketsServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/libb64/cdecode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/libb64/cencode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WebSockets-2.3.5/src/libsha1/libsha1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFiClientSecure/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFiClientSecure/src/ssl_client.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/DHT_sensor_library/DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/wberbert/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/Adafruit_Unified_Sensor/Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

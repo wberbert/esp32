@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "Device"
+        },
+        {
+            "path": "../sensor_MQQT_token"
+        }
+    ],
+    "settings": {
+        "IoTWorkbench.BoardId": "esp32",
+        "IoTWorkbench.DevicePath": "Device"
+    }
+}
